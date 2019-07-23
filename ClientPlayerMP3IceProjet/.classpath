@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/ice-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/icegrid-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/db.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/freeze-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/icegridgui.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/icepatch2-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/glacier2-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/icebox-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/icediscovery-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/icelocatordiscovery-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/lib/icestorm-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/ZeroC/Ice-3.6.3/bin/icegridgui.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
