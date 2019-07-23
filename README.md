@@ -1,7 +1,7 @@
 # Mp3 Library Ice Project
  Mp3 Library using ZeroC Ice - network interactions 
 
-Define the contract between your client and server using Ice's IDL, Slice.
+The contract between client and server using Ice's IDL, Slice.
 
 	module Player{
 	sequence<float> son;
